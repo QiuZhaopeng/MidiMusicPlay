@@ -2,7 +2,7 @@
 
 ## Build and run
 
-Open the project with Visual Studio and run it by pressing `CTRL+F5`. I am using VS 2022, but earlier versions will work, too.
+Open the project with Visual Studio and run it by pressing `CTRL+F5`. I am using VS 2022, but earlier versions will work, too. [This video](https://youtu.be/V4pqE6t9Vis?si=TJGeTe1jJN86P9DZ) shows how the output sounds (*NOTE*: this is not the video of the latest version).
 
 ## Rever j'en ai l'habitude
 
